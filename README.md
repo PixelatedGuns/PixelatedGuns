@@ -1,16 +1,63 @@
-## Hi there 👋
 
-<!--
-**PixelatedGuns/PixelatedGuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/WELCOME-303343?style=for-the-badge" />
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=40&duration=1&pause=1000&color=303343&center=true&vCenter=true&width=250&height=80&lines=Mel%2FScout"><img src="./011428A0-F6F4-467B-830D-D8027AEA5CB3.gif" width="100">
+</p>
+
+
+
+
+
+<p align="center">
+  <img src="Untitled24_20260816003456.png" width="1000">
+
+
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sugarcane&color=303343&style=plastic&label=Guests">
+</p>
+
+
+<p align="center">
+  <img src="Untitled24_20260816005348.png" width="500">
+
+
+<p align="center">
+  ⋆｡°✩ ───────── ✦ ───────── ✩°｡⋆
+</p>
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LOADING...-303343?style=for-the-badge" />
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/██████████████░░░░-303343?style=flat-square" />
+
+  
+
+
+
+
+
+
+<p align="center">
+  <img src="Untitled24_20260816002508.png" width="70">
+  <img src="Untitled24_20260816002647.png" width="50">
+  <img src="Untitled24_20260816002711.png" width="60">
+</p>
+
+
+<p align="center">
+  <img src="Untitled24_20260816003534.png" width="1000">
+
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=303343&center=true&vCenter=true&width=600&lines=✦i+miss+that+kind+of+misery✦;✦the+kind+were+you+were+nice+to+me✦;✦but+only+in+the+evening✦;✦so+i+asked+if+i+was+dreaming✦)](https://git.io/typing-svg)
